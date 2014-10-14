@@ -62,3 +62,4 @@ Contents
     support
     license
     release-notes
+    management-repl
