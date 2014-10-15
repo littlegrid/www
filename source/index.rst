@@ -1,11 +1,11 @@
 .. title:: Home
 
-.. image:: _static/littlegrid-logo-black.png
-    :scale: 15%
-
 #########################################################
 littlegrid - helping developers test their Coherence code
 #########################################################
+
+.. image:: _static/littlegrid-logo-black.png
+    :scale: 15%
 
 littlegrid is a **small** and **simple** open source framework for Oracle Coherence that
 lets you run multiple Coherence cluster members in a **single JVM**.
