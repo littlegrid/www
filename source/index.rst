@@ -1,5 +1,8 @@
 .. title:: Home
 
+.. image:: _static/littlegrid-logo-black.png
+    :scale: 15%
+
 #########################################################
 littlegrid - helping developers test their Coherence code
 #########################################################
