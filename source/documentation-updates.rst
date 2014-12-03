@@ -9,6 +9,8 @@ to easily determine what changes have occurred since their last visit.
 
 .. note:: Contact 'help at littlegrid dot org' to suggest website changes or corrections.  If you want to contribute code or documentation updates, then let us know - all help is welcome :-)
 
+2014-12-03 Initial raw example of POM for parallel test execution.  Added comment on JavaDoc and test coverage not presently being available due to hosting changes.
+
 2014-11-07 Added new sector to littlegrid users.
 
 2014-09-12 Moving all documentation to readthedocs.org
