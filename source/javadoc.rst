@@ -3,4 +3,4 @@
 littlegrid JavaDoc
 ==================
 
-`Latest JavaDoc <http://www.littlegrid.net/javadoc/2.15.2/index.html>`_
+The JavaDoc is presently unavailable whilst hosting is being sorted out - apologies.
