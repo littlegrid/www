@@ -21,6 +21,7 @@ How?
 ----
 
 .. code:: xml
+
    <build>
        <plugins>
            <plugin>
