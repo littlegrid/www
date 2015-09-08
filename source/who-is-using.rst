@@ -32,6 +32,10 @@ their Coherence code:
 * Global online travel
 * Software house
 
+littlegrid was the chosen Coherence test-support framework for a community Coherence cookbook:
+
+http://www.shadowmist.co.uk/index.php/coherence-cookbook
+
 If using littlegrid and are happy, then get your industry sector added to the list.  You don't
 need to provide the company name, just the industry sector is useful.
 
