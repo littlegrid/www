@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'littlegrid'
-copyright = u'2010 - 2014, littlegrid'
+copyright = u'2010 - 2017, littlegrid'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
