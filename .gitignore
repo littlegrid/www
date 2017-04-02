@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.vagrant/
+build/
+playbook.retry
+www.iml
+www.ipr
+www.iws
