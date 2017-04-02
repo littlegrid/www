@@ -1,0 +1,22 @@
+---
+- hosts: doc-slaves
+  become: yes
+  tasks:
+    - name: Install pip
+      apt: 
+        name: python-pip
+        state: present
+        update_cache: yes
+
+    - name: Install Sphinx document creation support
+      pip:
+        name: "{{ item }}"
+        state: present
+      with_items:
+        - Sphinx
+        - sphinx_rtd_theme
+
+    - name: Build the documentation
+      make:
+        chdir: .
+        target: html
