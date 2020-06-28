@@ -13,6 +13,9 @@ lets you run multiple Coherence cluster members in a **single JVM**.
 Testing in-process (using single JVM) is a **highly effective** way of developing your
 Coherence related code because the cluster is **quick to start** and you can **debug locally**.
 
+Development on littlegrid has been quiet over the last few years, but it's getting a fresh
+and reboot to help Developer now adopting Coherence CE.
+
 With just a few lines of littlegrid code you can quickly try out ideas in your **IDE**
 or easily automate your Coherence tests with your favourite test framework (e.g. **JUnit**)
 for running on your **Continuous Integration** (CI) build servers.
