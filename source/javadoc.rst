@@ -3,4 +3,4 @@
 littlegrid JavaDoc
 ==================
 
-The JavaDoc is presently unavailable whilst hosting is being sorted out - apologies.
+https://javadoc.io/doc/org.littlegrid/littlegrid/latest/index.html
